@@ -1,16 +1,19 @@
-### Hi there 👋
+## About me
 
-<!--
-**thepaqui/thepaqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am Théo, a 21 year-old French computer science student.  
+I've been a student at 42 Nice since November 7th 2022.  
+I'm currenctly learning C++98.  
 
-Here are some ideas to get you started:
+I'm interested in art, music and video games.  
+I aspire to work in video game design and development one day.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+
+[CodinGame Profile](https://www.codingame.com/profile/2c6b0a3cff5e9ae80c4d7b877623d7765903174)  
+[HowLongToBeat Profile](https://howlongtobeat.com/user/SCOUNDREL)
+
+## Stats
+
+![](https://raw.githubusercontent.com/thepaqui/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/thepaqui/stats/master/generated/languages.svg#gh-dark-mode-only)  
+Thanks to jstrieb for the awesome stats visualization! ([link](https://github.com/jstrieb/github-stats))
