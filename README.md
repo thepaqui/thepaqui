@@ -9,21 +9,13 @@ I aspire to work in video game design and development one day.
 
 ## Languages
 
-<p align='left'>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" alt="C" height="70" width="70"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg" alt="C++" height="70" width="70"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 ## Tools
 
-<p align='left'>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="Git" height="70", width="70"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VIM-Dark.svg" alt="Vim" height="70", width="70"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg" alt="VS Code" height="70", width="70"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GameMakerStudio.svg" alt="Game Maker Studio" height="70", width="70"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=git,vim,vscode,gamemakerstudio&theme=dark)](https://skillicons.dev)
 
-Thanks to tandpfun for the icons! ([Available here](https://github.com/tandpfun/skill-icons))
+Thanks to tandpfun and Skill Icons for the icons! ([Available here](https://github.com/tandpfun/skill-icons))
 
 ## Stats
 
