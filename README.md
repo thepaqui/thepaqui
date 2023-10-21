@@ -7,12 +7,23 @@ I'm currenctly learning C++.
 I'm interested in art, music and video games.  
 I aspire to work in video game design and development one day.  
 
-## Known Languages
+## Languages
 
 <p align='left'>
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C language" height="70" width="70"/>
-<!-- <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C language" height="70" width="70"/> -->
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" alt="C" height="70" width="70"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg" alt="C++" height="70" width="70"/>
 </p>
+
+## Tools
+
+<p align='left'>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="Git" height="70", width="70"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VIM-Dark.svg" alt="Vim" height="70", width="70"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg" alt="VS Code" height="70", width="70"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GameMakerStudio.svg" alt="Game Maker Studio" height="70", width="70"/>
+</p>
+
+Thanks to tandpfun for the icons! ([Available here](https://github.com/tandpfun/skill-icons))
 
 ## Stats
 
@@ -22,5 +33,4 @@ Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.
 
 ## Links
 
-[CodinGame Profile](https://www.codingame.com/profile/2c6b0a3cff5e9ae80c4d7b877623d7765903174)  
-[HowLongToBeat Profile](https://howlongtobeat.com/user/SCOUNDREL)
+[CodinGame Profile](https://www.codingame.com/profile/2c6b0a3cff5e9ae80c4d7b877623d7765903174)
