@@ -7,15 +7,21 @@ I'm currenctly learning C++.
 I'm interested in art, music and video games.  
 I aspire to work in video game design and development one day.  
 
-## Languages
+## Known Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp&theme=dark)](https://skillicons.dev)
 
-## Tools
+## Known Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,vim,vscode,gamemakerstudio&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,git,gamemakerstudio&theme=dark)](https://skillicons.dev)
 
-Thanks to tandpfun and Skill Icons for the icons! ([Available here](https://github.com/tandpfun/skill-icons))
+## In Progress
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,discordbots,python&theme=dark)](https://skillicons.dev)  
+- Win32 API
+- Assembly
+
+Thanks to tandpfun and [Skill Icons](https://github.com/tandpfun/skill-icons) for the icons!
 
 ## Stats
 
