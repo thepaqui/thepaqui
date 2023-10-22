@@ -9,17 +9,22 @@ I aspire to work in video game design and development one day.
 
 ## Known Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp&theme=dark)](https://skillicons.dev)
+[![Known languages](https://skillicons.dev/icons?i=c,cpp&theme=dark)](https://skillicons.dev)
 
 ## Known Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,git,gamemakerstudio&theme=dark)](https://skillicons.dev)
+[![Known tools](https://skillicons.dev/icons?i=vscode,vim,git,gamemakerstudio&theme=dark)](https://skillicons.dev)
 
 ## In Progress
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,discordbots,python&theme=dark)](https://skillicons.dev)  
+[![Learning in progress](https://skillicons.dev/icons?i=visualstudio,discordbots,python&theme=dark)](https://skillicons.dev)  
 - Win32 API
 - Assembly
+- D++
+
+## Want to learn
+
+[![Want to learn](https://skillicons.dev/icons?i=unity,unreal,blender,java,ts&theme=dark)](https://skillicons.dev)  
 
 Thanks to tandpfun and [Skill Icons](https://github.com/tandpfun/skill-icons) for the icons!
 
