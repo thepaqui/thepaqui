@@ -14,6 +14,7 @@ I aspire to work in video game design and development one day.
 ## Known Tools
 
 [![Known tools](https://skillicons.dev/icons?i=vscode,vim,git,gamemakerstudio&theme=dark)](https://skillicons.dev)
+- Jira
 
 ## In Progress
 
