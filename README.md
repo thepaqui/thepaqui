@@ -21,7 +21,7 @@ I aspire to work in video game design and development one day.
 [![Learning in progress](https://skillicons.dev/icons?i=visualstudio,discordbots,python&theme=dark)](https://skillicons.dev)  
 - Win32 API
 - Assembly
-- D++
+- [D++](https://github.com/brainboxdotcc/DPP)
 
 ## Want to Learn
 
