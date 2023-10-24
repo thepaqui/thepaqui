@@ -25,7 +25,7 @@ I aspire to work in video game design and development one day.
 
 ## Want to Learn
 
-[![Want to learn](https://skillicons.dev/icons?i=unity,unreal,blender,java,ts&theme=dark)](https://skillicons.dev)  
+[![Want to learn](https://skillicons.dev/icons?i=unity,unreal,mysql,blender,java,ts&theme=dark)](https://skillicons.dev)  
 
 Thanks to tandpfun and [Skill Icons](https://github.com/tandpfun/skill-icons) for the icons!
 
