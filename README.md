@@ -7,6 +7,12 @@ I'm currenctly learning C++.
 I'm interested in art, music and video games.  
 I aspire to work in video game design and development one day.  
 
+## Stats
+
+![](https://raw.githubusercontent.com/thepaqui/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/thepaqui/stats/master/generated/languages.svg#gh-dark-mode-only)  
+Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.com/jstrieb/github-stats))
+
 ## Known Languages
 
 [![Known languages](https://skillicons.dev/icons?i=c,cpp&theme=dark)](https://skillicons.dev)
@@ -28,12 +34,6 @@ I aspire to work in video game design and development one day.
 [![Want to learn](https://skillicons.dev/icons?i=unity,unreal,mysql,blender,java,ts&theme=dark)](https://skillicons.dev)  
 
 Thanks to tandpfun and [Skill Icons](https://github.com/tandpfun/skill-icons) for the icons!
-
-## Stats
-
-![](https://raw.githubusercontent.com/thepaqui/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/thepaqui/stats/master/generated/languages.svg#gh-dark-mode-only)  
-Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.com/jstrieb/github-stats))
 
 ## Links
 
