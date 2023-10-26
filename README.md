@@ -2,7 +2,7 @@
 
 Hello! I am Théo, a 21 year-old French computer science student.  
 I've been a student at 42 Nice since November 7th 2022.  
-I'm currenctly learning C++.  
+I'm currenctly deepening my understanding of C++.  
 
 I'm interested in art, music and video games.  
 I aspire to work in video game design and development one day.  
