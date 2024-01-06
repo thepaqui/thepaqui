@@ -2,7 +2,7 @@
 
 Hello! I am Théo, a 21 year-old French computer science student.  
 I've been a student at 42 Nice since November 7th 2022.  
-I'm currently deepening my understanding of C++ and learning the basics of OpenGL.  
+I'm currently practicing my C++ and learning OpenGL.  
 
 I'm interested in art, music and video games.  
 I aspire to work in video game design and development one day.  
@@ -19,7 +19,7 @@ Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.
 
 ## Known Tools
 
-[![Known tools](https://skillicons.dev/icons?i=vscode,vim,git,gamemakerstudio&theme=dark)](https://skillicons.dev)
+[![Known tools](https://skillicons.dev/icons?i=vscode,vim,git,gamemakerstudio,opengl&theme=dark)](https://skillicons.dev)
 - Jira
 
 ## Currently Learning
