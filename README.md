@@ -24,7 +24,7 @@ Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.
 
 ## Currently Learning
 
-[![Learning in progress](https://skillicons.dev/icons?i=visualstudio,discordbots,python&theme=dark)](https://skillicons.dev)  
+[![Learning in progress](https://skillicons.dev/icons?i=visualstudio,discordbots,python,docker&theme=dark)](https://skillicons.dev)  
 - OpenGL (with GLFW and GLAD) and GLSL
 - Win32 API
 - Assembly
