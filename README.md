@@ -19,12 +19,13 @@ Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.
 
 ## Known Tools
 
-[![Known tools](https://skillicons.dev/icons?i=vscode,vim,git,gamemakerstudio,opengl&theme=dark)](https://skillicons.dev)
+[![Known tools](https://skillicons.dev/icons?i=vscode,vim,git,gamemakerstudio,docker&theme=dark)](https://skillicons.dev)
+- OpenGL
 - Jira
 
 ## Currently Learning
 
-[![Learning in progress](https://skillicons.dev/icons?i=visualstudio,discordbots,python,docker&theme=dark)](https://skillicons.dev)  
+[![Learning in progress](https://skillicons.dev/icons?i=visualstudio,discordbots,python&theme=dark)](https://skillicons.dev)  
 - OpenGL (with GLFW and GLAD) and GLSL
 - Win32 API
 - Assembly
