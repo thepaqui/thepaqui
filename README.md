@@ -1,6 +1,6 @@
 ## About me
 
-Hello! I am Théo, a 21 year-old French computer science student.  
+Hello! I am Théo, a 22 year-old French computer science student.  
 I've been a student at 42 Nice since November 7th 2022.  
 I'm currently practicing my C++ and learning OpenGL.  
 
