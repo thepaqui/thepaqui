@@ -19,7 +19,7 @@ Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.
 
 ## Known Tools
 
-[![Known tools](https://skillicons.dev/icons?i=vscode,vim,git,gamemakerstudio,docker&theme=dark)](https://skillicons.dev)
+[![Known tools](https://skillicons.dev/icons?i=ubuntu,vim,vscode,git,github,docker,gamemakerstudio&theme=dark)](https://skillicons.dev)
 - OpenGL
 - Jira
 
@@ -31,7 +31,7 @@ Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.
 
 ## Want to Learn
 
-[![Want to learn](https://skillicons.dev/icons?i=unreal,unity,blender,rust,java,ts&theme=dark)](https://skillicons.dev)  
+[![Want to learn](https://skillicons.dev/icons?i=unreal,unity,godot,blender,cs,neovim,rust,java,lua,ts&theme=dark)](https://skillicons.dev)  
 
 Thanks to tandpfun and [Skill Icons](https://github.com/tandpfun/skill-icons) for the icons!
 
