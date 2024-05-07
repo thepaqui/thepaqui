@@ -25,15 +25,13 @@ Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.
 
 ## Currently Learning
 
-[![Learning in progress](https://skillicons.dev/icons?i=visualstudio,discordbots,python&theme=dark)](https://skillicons.dev)  
+[![Learning in progress](https://skillicons.dev/icons?i=django,postgres,nextjs,python&theme=dark)](https://skillicons.dev)  
 - OpenGL (with GLFW and GLAD) and GLSL
-- Win32 API
 - Assembly
-- [D++](https://github.com/brainboxdotcc/DPP)
 
 ## Want to Learn
 
-[![Want to learn](https://skillicons.dev/icons?i=unreal,unity,blender,rust,java,mysql,ts&theme=dark)](https://skillicons.dev)  
+[![Want to learn](https://skillicons.dev/icons?i=unreal,unity,blender,rust,java,ts&theme=dark)](https://skillicons.dev)  
 
 Thanks to tandpfun and [Skill Icons](https://github.com/tandpfun/skill-icons) for the icons!
 
