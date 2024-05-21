@@ -25,7 +25,7 @@ Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.
 
 ## Currently Learning
 
-[![Learning in progress](https://skillicons.dev/icons?i=django,postgres,nextjs,bootstrap,python&theme=dark)](https://skillicons.dev)  
+[![Learning in progress](https://skillicons.dev/icons?i=django,postgres,nextjs,bootstrap,python,js&theme=dark)](https://skillicons.dev)  
 - OpenGL (with GLFW and GLAD) and GLSL
 - Assembly
 
