@@ -15,20 +15,16 @@ Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.
 
 ## Known Languages
 
-[![Known languages](https://skillicons.dev/icons?i=c,cpp,python&theme=dark)](https://skillicons.dev)
+[![Known languages](https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark)](https://skillicons.dev)
 
 ## Known Tools
 
-[![Known tools](https://skillicons.dev/icons?i=linux,ubuntu,git,github&theme=dark)](https://skillicons.dev)  
-[![Known tools](https://skillicons.dev/icons?i=vim,vscode,docker&theme=dark)](https://skillicons.dev)  
-[![Known tools](https://skillicons.dev/icons?i=django,gamemakerstudio&theme=dark)](https://skillicons.dev)  
+[![Known tools](https://skillicons.dev/icons?i=linux,ubuntu,git,github,docker&theme=dark)](https://skillicons.dev)  
+[![Known tools](https://skillicons.dev/icons?i=postgres,django,nextjs,bootstrap&theme=dark)](https://skillicons.dev)  
+[![Known tools](https://skillicons.dev/icons?i=vim,vscode&theme=dark)](https://skillicons.dev)  
+[![Known tools](https://skillicons.dev/icons?i=gamemakerstudio&theme=dark)](https://skillicons.dev)  
 - OpenGL
 - Jira
-
-## Currently Learning
-
-[![Learning in progress](https://skillicons.dev/icons?i=postgres,nextjs,bootstrap,js&theme=dark)](https://skillicons.dev)  
-- Assembly
 
 ## Want to Learn
 
