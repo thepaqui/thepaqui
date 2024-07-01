@@ -22,13 +22,13 @@ Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.
 [![Known tools](https://skillicons.dev/icons?i=linux,ubuntu,git,github,docker&theme=dark)](https://skillicons.dev)  
 [![Known tools](https://skillicons.dev/icons?i=postgres,django,nextjs,bootstrap&theme=dark)](https://skillicons.dev)  
 [![Known tools](https://skillicons.dev/icons?i=vim,vscode&theme=dark)](https://skillicons.dev)  
-[![Known tools](https://skillicons.dev/icons?i=gamemakerstudio&theme=dark)](https://skillicons.dev)  
+[![Known tools](https://skillicons.dev/icons?i=unity,gamemakerstudio&theme=dark)](https://skillicons.dev)  
 - OpenGL
 - Jira
 
 ## Want to Learn
 
-[![Want to learn](https://skillicons.dev/icons?i=unreal,unity,godot,blender&theme=dark)](https://skillicons.dev)  
+[![Want to learn](https://skillicons.dev/icons?i=unreal,godot,blender&theme=dark)](https://skillicons.dev)  
 [![Want to learn](https://skillicons.dev/icons?i=cs,rust,java,lua,ts&theme=dark)](https://skillicons.dev)  
 [![Want to learn](https://skillicons.dev/icons?i=neovim&theme=dark)](https://skillicons.dev)  
 
