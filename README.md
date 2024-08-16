@@ -37,3 +37,4 @@ Thanks to tandpfun and [Skill Icons](https://github.com/tandpfun/skill-icons) fo
 ## Links
 
 [CodinGame Profile](https://www.codingame.com/profile/2c6b0a3cff5e9ae80c4d7b877623d7765903174)
+[Itch.io Profile](https://thepaqui.itch.io/)
