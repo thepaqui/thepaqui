@@ -15,7 +15,7 @@ Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.
 
 ## Known Languages
 
-[![Known languages](https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark)](https://skillicons.dev)
+[![Known languages](https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark)](https://skillicons.dev)
 
 ## Known Tools
 
