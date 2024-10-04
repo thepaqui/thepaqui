@@ -1,7 +1,7 @@
 ## About me
 
 Hello! I am Théo, a 22 year-old French computer science student.  
-I've been a student at 42 Nice since November 7th 2022, and I finished the Common Core on August 8th 2024.  
+I've been a student at 42 Nice since November 7th 2022, and I finished the Common Core on August 30th 2024.  
 I'm currently looking for an internship.  
 
 I'm interested in art, music and video games.  
@@ -21,10 +21,11 @@ Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.
 
 [![Known tools](https://skillicons.dev/icons?i=linux,ubuntu,git,github,docker&theme=dark)](https://skillicons.dev)  
 [![Known tools](https://skillicons.dev/icons?i=postgres,django,nextjs,bootstrap&theme=dark)](https://skillicons.dev)  
-[![Known tools](https://skillicons.dev/icons?i=vim,vscode&theme=dark)](https://skillicons.dev)  
+[![Known tools](https://skillicons.dev/icons?i=vim,vscode,androidstudio&theme=dark)](https://skillicons.dev)  
 [![Known tools](https://skillicons.dev/icons?i=unity,gamemakerstudio&theme=dark)](https://skillicons.dev)  
 - OpenGL
 - Jira
+- Expo
 
 ## Want to Learn
 
