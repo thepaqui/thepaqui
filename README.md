@@ -1,8 +1,8 @@
 ## About me
 
-Hello! I am Théo, a 22 year-old French computer science student.  
+Hello! I am Théo, a 23 year-old French computer science student.  
 I've been a student at 42 Nice since November 7th 2022, and I finished the Common Core on August 30th 2024.  
-I'm currently looking for an internship.  
+I'm currently in an internship, teaching children about electronics, robotics, game dev, python and web dev.  
 
 I'm interested in art, music and video games.  
 I aspire to work in video game design and development one day.  
