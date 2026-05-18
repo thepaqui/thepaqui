@@ -9,8 +9,8 @@ I aspire to work in video game design and development one day.
 
 ## Stats
 
-![](https://raw.githubusercontent.com/thepaqui/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/thepaqui/stats/master/generated/languages.svg#gh-dark-mode-only)  
+![](https://raw.githubusercontent.com/thepaqui/stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/thepaqui/stats/master/generated/languages.svg)  
 Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.com/jstrieb/github-stats))
 
 ## Known Languages
