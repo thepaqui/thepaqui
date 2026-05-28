@@ -13,16 +13,15 @@ I aspire to work in video game design and development one day.
 ![](https://raw.githubusercontent.com/thepaqui/stats/master/generated/languages.svg)  
 Thanks to jstrieb for the awesome stats visualization! ([How to](https://github.com/jstrieb/github-stats))
 
-## Known Languages
+## Known Languages & Tools
 
-[![Known languages](https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,html,css,lua,kotlin&theme=dark)](https://skillicons.dev)
-
-## Known Tools
-
+[![Known languages](https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts&theme=dark)](https://skillicons.dev)  
+[![Known languages](https://skillicons.dev/icons?i=html,css,lua,kotlin,dart,flutter&theme=dark)](https://skillicons.dev)  
 [![Known tools](https://skillicons.dev/icons?i=linux,ubuntu,git,github,docker&theme=dark)](https://skillicons.dev)  
 [![Known tools](https://skillicons.dev/icons?i=postgres,django,nextjs,bootstrap&theme=dark)](https://skillicons.dev)  
 [![Known tools](https://skillicons.dev/icons?i=vim,vscode,androidstudio&theme=dark)](https://skillicons.dev)  
 [![Known tools](https://skillicons.dev/icons?i=unity,gamemakerstudio&theme=dark)](https://skillicons.dev)  
+- Construct 2/3
 - OpenGL
 - Jira
 - Expo
